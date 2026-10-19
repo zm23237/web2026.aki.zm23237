@@ -11,3 +11,15 @@ function taro64(){
 function hanako64(){
   who64='花子';
 }
+
+function kadai65(){
+  kadai65='が来た';
+}
+
+function kadai651(){
+  alert(kadai651=taro64+kadai65);
+}
+
+function kadai652(){
+  alert(kadai652=hnako64+kadai65);
+}
