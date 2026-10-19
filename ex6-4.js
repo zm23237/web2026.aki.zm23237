@@ -12,14 +12,17 @@ function hanako64(){
   who64='花子';
 }
 
-function kadai65(){
-  kadai65='が来た';
-}
 
-function kadai651(){
-  alert(taro64+kadai65);
-}
 
-function kadai652(){
-  alert(hnako64+kadai65);
+
+var who65='world';
+
+function taro65(){
+  who65='太朗';
+}
+function hanako65(){
+  who65='花子';
+
+function sayhello65(){
+  alert('Hello,'+who65+'!');
 }
