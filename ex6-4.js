@@ -17,9 +17,9 @@ function kadai65(){
 }
 
 function kadai651(){
-  alert(kadai651=taro64+kadai65);
+  alert(taro64+kadai65);
 }
 
 function kadai652(){
-  alert(kadai652=hnako64+kadai65);
+  alert(hnako64+kadai65);
 }
