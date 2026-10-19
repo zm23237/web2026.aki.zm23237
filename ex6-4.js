@@ -20,6 +20,7 @@ var who65='world';
 function taro65(){
   who65='太朗';
 }
+
 function hanako65(){
   who65='花子';
 
