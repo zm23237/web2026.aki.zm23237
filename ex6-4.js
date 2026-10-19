@@ -16,7 +16,7 @@ function hanako64(){
 
 
 var who65='world';
-var come65='来た';
+var come65='が来た';
 
 function sayhello65(){
   alert('Hello,'+who65+'!');
