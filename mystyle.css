@@ -17,7 +17,7 @@ p.sample3 {margin: 30px 30px;
 
 /*CSSを使って画像の大きさを制御*/
 
-img.imagchange{
+img.imagechange{
            width: 500px;
            height: 200px;
 }
