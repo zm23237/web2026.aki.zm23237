@@ -1,3 +1,6 @@
-function imgchenge1(){
-    document.getElementById('logo').src = './image/image4.jpg' width="300" height="200";
+function imgchange1(){
+    document.getElementById('logo').src = './image/image4.jpg';
+}
+function imgchange2(){
+    document.getElementById('logo').src = './image/image3.jpg';
 }
