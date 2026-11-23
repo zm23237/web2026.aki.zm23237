@@ -23,7 +23,7 @@ function sayhello65(){
 }
 
 function taro65(){
-  who65='太朗';
+  who65='太郎';
   alert(who65 + come65);
 }
 
