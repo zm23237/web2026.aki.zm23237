@@ -1,4 +1,4 @@
-function imgchange3(){ー
+function imgchange3(){
     document.getElementById('josai_logo').src = './image/image4.jpg';
 }
 function imgchange4(){
